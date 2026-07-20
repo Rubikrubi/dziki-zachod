@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.log
+
+package-lock.json
+
+# artefakty procesu deweloperskiego — nie sa czescia opublikowanej gry
+.superpowers/
+docs/

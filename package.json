@@ -1,0 +1,25 @@
+{
+  "name": "game",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "packageManager": "pnpm@9.15.4",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@types/howler": "2.2.13",
+    "@types/webfontloader": "1.6.38",
+    "typescript": "~5.8.3",
+    "vite": "^7.3.3",
+    "vitest": "^2.1.8"
+  },
+  "dependencies": {
+    "howler": "2.2.4",
+    "phaser": "3.90.0",
+    "webfontloader": "1.6.28"
+  }
+}
