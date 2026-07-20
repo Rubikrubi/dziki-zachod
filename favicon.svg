@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#e8933e"/>
+  <rect x="6" y="48" width="52" height="10" rx="4" fill="#c2803a"/>
+  <!-- kapelusz kowbojski -->
+  <ellipse cx="32" cy="26" rx="20" ry="6" fill="#7a4a1d" stroke="#4a2a0d" stroke-width="2"/>
+  <path d="M22 26 Q22 12 32 12 Q42 12 42 26 Z" fill="#8a5524" stroke="#4a2a0d" stroke-width="2"/>
+  <rect x="22" y="21" width="20" height="4" fill="#c0392b"/>
+  <!-- twarz -->
+  <circle cx="32" cy="38" r="10" fill="#ffd9a8" stroke="#4a2a0d" stroke-width="2"/>
+  <circle cx="28.5" cy="36.5" r="1.8" fill="#222"/>
+  <circle cx="35.5" cy="36.5" r="1.8" fill="#222"/>
+  <!-- gwiazda szeryfa -->
+  <circle cx="51" cy="13" r="7" fill="#ffd700" stroke="#b8860b" stroke-width="2"/>
+</svg>
